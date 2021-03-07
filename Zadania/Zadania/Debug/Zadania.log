@@ -1,0 +1,7 @@
+﻿  Zadania.cpp
+D:\VS\Zadania\Zadania\Zadania.cpp(186,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS\Zadania\Zadania\Zadania.cpp(249,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VS\Zadania\Zadania\Zadania.cpp(240,6): warning C4101: i: неиспользованная локальная переменная
+D:\VS\Zadania\Zadania\Zadania.cpp(238): warning C4715: NumPr4: значение возвращается не при всех путях выполнения
+D:\VS\Zadania\Zadania\Zadania.cpp(178): warning C4715: NumZadania3: значение возвращается не при всех путях выполнения
+  Zadania.vcxproj -> D:\VS\Zadania\Debug\Zadania.exe
